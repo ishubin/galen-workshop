@@ -23,12 +23,12 @@ Part 2. Advanced testing
 ### Purpose
 * Sections and reporting. Lets make a nicer feedback in Html reports
 * Template specs. Implement tests for menu. Use the web page from tutorial1
-* Testing form elements.
 
 ### Exercise 
-Will follow up soon
+Using template specs implement tests for the following page
+http://samples.galenframework.com/tutorial-advanced/tutorial.html
 
-
+The workshop is not yet started
 
 
 The following are just drafts
@@ -74,6 +74,6 @@ What if we have multiple components on the same page? (e.g. comments, search res
 ####Conditional blocks
 Don't know which exact element to expect?
 
-####TTD for Responsive Design
+####TDD for Responsive Design
 Still need to figure out something for this one. Maybe we could perform an experiment where frontend developers would implement a page based on galen specs and then we could compare the outcome with original sketch.
 
