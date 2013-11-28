@@ -1,0 +1,13 @@
+
+
+@@ Table devices 
+    | deviceName   | tags        | size     |
+    | desktop      | all,desktop | 1124x768 |
+    | tablet       | all,tablet  | 600x800  |
+    | mobile       | all,mobile  | 400x500  |
+
+@@ Parameterized using devices
+Exercise page for ${deviceName} 
+    http://samples.galenframework.com/tutorial-advanced/tutorial.html  ${size}
+        check exercise.spec --include "${tags}"
+

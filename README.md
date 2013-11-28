@@ -28,7 +28,7 @@ Part 2. Advanced testing
 Using template specs implement tests for the following page
 http://samples.galenframework.com/tutorial-advanced/tutorial.html
 
-The workshop is not yet started
+The workshop is finished. The contents are in workshop-02-advanced-testing folder
 
 
 The following are just drafts
