@@ -31,6 +31,22 @@ http://samples.galenframework.com/tutorial-advanced/tutorial.html
 The workshop is finished. The contents are in workshop-02-advanced-testing folder
 
 
+Part 3. Javascript Injection
+-----------
+### Purpose
+* Inject custom javascript on page to get to the hidden elements, so they could later be checked by galen
+* Set the cookie to open up the functionality hidden behind feature switches (toggles)
+
+### Exercise
+Ex. 1. For javascript injection: http://samples.galenframework.com/tutorial-js-injection/tutorial.html
+Ex. 2. For cookie handling: Try to set the following cookie
+```
+FEATURE_SWITCH=1;path=/
+```
+http://samples.galenframework.com/tutorial-cookie-handling/tutorial.html
+
+
+
 The following are just drafts
 ----------
 
