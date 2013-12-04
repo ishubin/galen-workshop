@@ -39,6 +39,7 @@ Part 3. Javascript Injection
 
 ### Exercise
 Ex. 1. For javascript injection: http://samples.galenframework.com/tutorial-js-injection/tutorial.html
+
 Ex. 2. For cookie handling: Try to set the following cookie
 ```
 FEATURE_SWITCH=1;path=/
