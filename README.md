@@ -46,6 +46,19 @@ FEATURE_SWITCH=1;path=/
 ```
 http://samples.galenframework.com/tutorial-cookie-handling/tutorial.html
 
+The workshop is finished. The contents are in workshop-03-js-injection folder
+
+
+
+Part 4. Component Testing
+-----------
+### Purpose
+* Define a simple components in a separate files
+* Run page checks with multiple components
+
+### Exercise
+Will follow up soon
+
 
 
 The following are just drafts

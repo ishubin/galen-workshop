@@ -1,0 +1,14 @@
+
+
+
+JS Injection tutorial
+    http://samples.galenframework.com/tutorial-js-injection/tutorial.html  1024x768
+        inject open-dropdown.js
+        check dropdown.spec
+
+
+
+Cookie handling tutorial
+    http://samples.galenframework.com/tutorial-cookie-handling/tutorial.html  1024x768
+        cookie "FEATURE_SWITCH=1;path=/"
+        check snippet.spec
