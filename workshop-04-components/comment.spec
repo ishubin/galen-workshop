@@ -9,10 +9,10 @@ message         css .message
 --------------------------
 
 icon
-    width: 48px
-    height: 48px
-    inside: parent 10px top left
+    width: 64 px
+    height: 64 px
+    inside: parent ~10px top left
 
 username 
-    below: icon 5px
-    inside: parent 10px top
+    below: icon ~6px
+    inside: parent ~10px left

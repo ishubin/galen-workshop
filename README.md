@@ -57,8 +57,9 @@ Part 4. Component Testing
 * Run page checks with multiple components
 
 ### Exercise
-Will follow up soon
+The test page is http://samples.galenframework.com/tutorial-component/tutorial.html
 
+The workshop is finished. The contents are in workshop-04-components folder
 
 
 The following are just drafts
